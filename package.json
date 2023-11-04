@@ -1,0 +1,14 @@
+{
+  "name": "lista-tareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Barreto",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
